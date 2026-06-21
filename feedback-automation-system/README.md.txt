@@ -29,4 +29,4 @@ Process
 4. Email notification is sent
 
 Outcome
-Reduced manual work and improved response tracking through automation.
+Reduced manual work and improved response tracking through automation
