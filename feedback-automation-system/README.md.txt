@@ -1,6 +1,6 @@
-# Feedback Automation System
+Feedback Automation System
 
-## Overview
+Overview
 This project automates feedback collection and notification using Zapier.
 
 When a user submits a Google Form:
@@ -8,29 +8,25 @@ When a user submits a Google Form:
 - Data is stored in Google Sheets
 - Gmail sends an email notification
 
-## Workflow
+Workflow
 Google Forms → Google Sheets → Gmail
 
-## Features
+Features
 - Automated form response collection
 - Real-time data storage
 - Instant email notification
 
-## Tools Used
+Tools Used
 - Zapier
 - Google Forms
 - Google Sheets
 - Gmail
 
-## Workflow Preview
-
-![Workflow](assets/workflow-screenshot.png)
-
-## Process
+Process
 1. User submits Google Form
 2. Zapier triggers automation
 3. Data is stored in Google Sheets
 4. Email notification is sent
 
-## Outcome
+Outcome
 Reduced manual work and improved response tracking through automation.
